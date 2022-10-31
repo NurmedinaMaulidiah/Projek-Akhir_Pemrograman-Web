@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>kdinzy</title>
-    <link rel="stylesheet" href="style4.css">
+    <link rel="stylesheet" href="css/style4.css">
     <link rel="stylesheet" href="#">
     <script src="jquery.js"></script>
     <style media="screen">
@@ -19,7 +19,7 @@
 }
 body{
     background-color :#f5b0b3;
-}
+} 
 .container{
     width: 2430px;
     position: absolute;
@@ -114,21 +114,21 @@ img{
     </div>
     <main class = "grid" >
         <article>
-            <img src="resto.jpg" width="300px" height="300px">
+            <img src="img/resto.jpg" width="300px" height="300px">
             <div class="paragraf">
             <h2>High Technology</h2>
             <p>fasilitas self-service pada setiap mejanya dengan menggunakan iPad, sehingga kamu dapat dengan mudah memesan menu, request lagu, berfoto-foto, hingga memanggil pelayan kami hanya dengan sekali sentuhan.</p>
             </div>
         </article>
         <article>
-            <img src="fresh.jpg" width="300px" height="300px">
+            <img src="img/fresh.jpg" width="300px" height="300px">
             <div class="paragraf">
             <h2>Fresh Ingridients</h2>
             <p>Semua resep yang digunakan merupakan resep asli dari K'dinzy, dimasak dengan menggunakan bahan-bahan berkualitas, diproses dengan teknik khusus, dan dikontrol dengan standard quality assurance yang ketat.</p>
             </div>
         </article>
         <article>
-            <img src="live.jpg" width="300px" height="300px">
+            <img src="img/live.jpg" width="300px" height="300px">
             <div class="paragraf">
             <h2>K-Entertainment</h2>
             <p>Ingin menghadirkan suasana ke-Korea-an, kami menyediakan musik KPOP dan K-Drama yang selalu up-to-date yang akan menemanimu selama kamu makan.</p>
